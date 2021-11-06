@@ -8,7 +8,6 @@ public class Vehicle
         this.cost = cost;
 
 
-        System.out.println("Hmm");
     }
 
 }
