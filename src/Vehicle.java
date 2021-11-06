@@ -6,6 +6,9 @@ public class Vehicle
     Vehicle(String make, double cost){
         this.make = make;
         this.cost = cost;
+
+
+        System.out.println("Hmm");
     }
 
 }
